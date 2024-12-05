@@ -217,7 +217,8 @@ function refresh_feed()
             'https://nightsong.piusbird.space/feed',
             'https://thegnuguru.org/rss',
             'https://tilde.zone/@piusbird.rss',
-            'https://tilde.town/~piusbird/technomancer/feed.rss'
+            'https://tilde.town/~piusbird/technomancer/feed.rss',
+	    'https://github.com/piusbird.atom'
 
 
         ];
